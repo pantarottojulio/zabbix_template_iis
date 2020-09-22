@@ -1,4 +1,4 @@
-# Template Active Microsoft IIS
+# Template Microsoft IIS
 
 Template for discovering IIS sites and application pool on hosts and monitoring the state after  (stopped or started ) automatically.
 
